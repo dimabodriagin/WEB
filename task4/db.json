@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "First item",
+      "body": "ДоБрая китя",
+      "img": "https://sun9-70.userapi.com/impf/DeVMwNlaWb00Gdfh_ipGVVL1Jf6FxbBrTSFURA/7YSYKLPgw7I.jpg?size=649x381&quality=96&sign=5cd1a4e2dac199a9232db92f9d5d7fdd&type=album",
+      "code": "12",
+      "deliever": "ООО Hello kitty"
+    }
+  ],
+  "creatorInfo": {
+    "name": "Бодрягин Дмитрий",
+    "group": "6407",
+    "repo": "https://github.com/SONDER123476"
+  }
+}

@@ -1,0 +1,30 @@
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+    background: linear-gradient(141deg, rgb(63, 196, 36) 0%, gray 40%, rgb(160, 170, 23) 90%);
+}
+
+.info-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+.info_items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 45%;
+}
+#defaultClick {
+    background-color: rgba(255, 255, 255, 0.342); /* Измените "red" на желаемый цвет фона */
+    color: white; /* Измените "white" на желаемый цвет текста */
+    border-color: black;
+  }
+  #defaultClick:hover {
+    background-color: black;
+    color: blue;
+    border-color: blue; 
+  }
